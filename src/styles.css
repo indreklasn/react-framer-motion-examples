@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px 0;
+  margin: 50px 0 100px 0;
+}
+
+hr {
+  margin: 100px 0;
+  opacity: 0.25;
+}
